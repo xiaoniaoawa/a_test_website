@@ -1,2 +1,2 @@
 # xiaoniaoawa.github.io
-pages
+just a eazy page
